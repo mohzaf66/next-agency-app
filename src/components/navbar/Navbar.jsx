@@ -1,4 +1,5 @@
 import Links from "./links/Links"
+import "./navbar.css"
 
 const Navbar = () => {
   return (
